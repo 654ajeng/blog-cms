@@ -224,3 +224,4 @@ jobs:
 
       - name: Delete SSH Key
         run: rm -f ssh_private_key_cicd_polindra
+ 
